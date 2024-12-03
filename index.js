@@ -12,7 +12,7 @@ app.use(express.json()); // Middleware to handle JSON payloads
 
 // API routes
 app.use("/api/auth", authRoutes); // Authentication routes
-app.use("/api/users", userRoutes); // User management routes
+app.use("/api", userRoutes); // User management routes
 
 const PORT = process.env.PORT || 8000;
 
