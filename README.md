@@ -22,8 +22,8 @@ This project implements a Role-Based Access Control (RBAC) system using Node.js,
 ### Steps:
 1. **Clone the Repository**:
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+    git clone [<repository_url>](https://github.com/Agrit-Garg/RBAC.git)
+    cd RBAC
     ```
 
 2. **Install Dependencies**:
